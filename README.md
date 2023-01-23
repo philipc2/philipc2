@@ -9,6 +9,6 @@
 
 I am a senior studying Computer Engineering at the University of Illinois Urbana-Champaign and Intern at the National Center for Atmopsheric Research.
 
-![Philip's github stats](https://github-readme-stats.vercel.app/api?username=philipc2&hide=contribs,prs&count_private=true&show_icons=true)
+![Philip's github stats](https://github-readme-stats.vercel.app/api?username=philipc2&hide=stars&count_private=true&show_icons=true)
 
 
