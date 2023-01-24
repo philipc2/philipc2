@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/philip-chmielowiec-9949961b6/)
 
 
-I am a senior studying Computer Engineering at the University of Illinois Urbana-Champaign and Intern at the National Center for Atmopsheric Research.
+I am a Senior studying Computer Engineering at the University of Illinois Urbana-Champaign and Intern at the National Center for Atmopsheric Research.
 
 
 ![Philip's github stats](https://github-readme-stats.vercel.app/api?username=philipc2&hide=stars&count_private=true&show_icons=true)
