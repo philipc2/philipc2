@@ -1,4 +1,6 @@
-# Philip Chmielowiec
+<div align="center" width="50">
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Philip Chmielowiec</h1>
 
 
 
@@ -7,7 +9,11 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/philip-chmielowiec-9949961b6/)
 
 
-I am a Senior studying Computer Engineering at the University of Illinois Urbana-Champaign and Intern at the National Center for Atmopsheric Research.
+
+- 🏢 I am currently working as a **Scientific Software Engineer** at the [National Center for Atmospheric Research](https://github.com/NCAR)
+- 🏢 Former **Intern** at the [National Center for Atmospheric Research](https://github.com/NCAR)
+- 🎓 B.S in Computer Engineering from the [Univiersity of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
+- 🏡 Lives in **Champaign, Illinois**
 
 
 
