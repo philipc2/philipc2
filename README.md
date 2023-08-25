@@ -12,6 +12,7 @@
 
 - 🏢 I am currently working as a **Scientific Software Engineer** at the [National Center for Atmospheric Research](https://github.com/NCAR)
 - 🏢 Former **Intern** at the [National Center for Atmospheric Research](https://github.com/NCAR)
+- 🎓 I am currently working towards a M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
 - 🎓 B.S in Computer Engineering from the [Univiersity of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
 - 🏡 Lives in **Chicago, Illinois**
 
