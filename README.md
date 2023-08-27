@@ -9,14 +9,16 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/philip-chmielowiec-9949961b6/)
 
 
+## Background 
+### :cyclone: Work
+- I am currently working as a **Scientific Software Engineer** at the [National Center for Atmospheric Research](https://github.com/NCAR)
+- Former **SIParCS Intern** and **CISL Visistor** at the [National Center for Atmospheric Research](https://github.com/NCAR)
 
-- 🏢 I am currently working as a **Scientific Software Engineer** at the [National Center for Atmospheric Research](https://github.com/NCAR)
-- 🏢 Former **Intern** at the [National Center for Atmospheric Research](https://github.com/NCAR)
-- 🎓 I am currently working towards a M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
-- 🎓 B.S in Computer Engineering from the [Univiersity of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
-- 🏡 Lives in **Chicago, Illinois**
+### 🎓Education
+- I am currently working towards a M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
+- B.S in Computer Engineering from the [Univiersity of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
 
-## Github Stats 
+## :chart_with_upwards_trend: Github Stats 
 ![Philip's github stats](https://github-readme-stats.vercel.app/api?username=philipc2&show_icons=true&title_color=64bcbc&icon_color=026591&text_color=bcdbe2&bg_color=151515&hide=stars&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philipc2&theme=dark&card_width=466&border=ffffff&ring=64bcbc&fire=026591&currStreakNum=bcdbe2&currStreakLabel=bcdbe2&sideLabels=bcdbe2)](https://git.io/streak-stats)
@@ -24,7 +26,7 @@
 
 
 
-## Tools & Frameworks
+## 🛠️ Tools & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
