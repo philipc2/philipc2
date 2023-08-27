@@ -12,11 +12,11 @@
 ## Background 
 ### :cyclone: Work
 - I am currently working as a **Scientific Software Engineer** at the [National Center for Atmospheric Research](https://github.com/NCAR)
-- Former **SIParCS Intern** and **CISL Visistor** at the [National Center for Atmospheric Research](https://github.com/NCAR)
+- Former **SIParCS Intern** and **CISL Visitor** at the [National Center for Atmospheric Research](https://github.com/NCAR)
 
 ### 🎓Education
 - I am currently working towards a M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
-- B.S in Computer Engineering from the [Univiersity of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
+- B.S in Computer Engineering from the [University of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
 
 ## :chart_with_upwards_trend: Github Stats 
 ![Philip's github stats](https://github-readme-stats.vercel.app/api?username=philipc2&show_icons=true&title_color=64bcbc&icon_color=026591&text_color=bcdbe2&bg_color=151515&hide=stars&count_private=true&include_all_commits=true)
