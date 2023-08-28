@@ -19,7 +19,7 @@
 - B.S in Computer Engineering from the [University of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
 
 ## :chart_with_upwards_trend: Github Stats 
-![Philip's github stats](https://github-readme-stats-snowy-delta.vercel.app//api?username=philipc2&show_icons=true&title_color=64bcbc&icon_color=026591&text_color=bcdbe2&bg_color=151515&hide=stars&count_private=true&include_all_commits=true)
+![Philip's github stats](https://github-readme-stats-snowy-delta.vercel.app/api?username=philipc2&show_icons=true&title_color=64bcbc&icon_color=026591&text_color=bcdbe2&bg_color=151515&hide=stars&count_private=true&include_all_commits=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=philipc2&theme=dark&card_width=466&border=ffffff&ring=64bcbc&fire=026591&currStreakNum=bcdbe2&currStreakLabel=bcdbe2&sideLabels=bcdbe2&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
