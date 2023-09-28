@@ -11,11 +11,11 @@
 
 ## Background 
 ### :cyclone: Work
-- I am currently working as a **Scientific Software Engineer** at the [National Center for Atmospheric Research](https://github.com/NCAR)
+- I'm currently working as a **Scientific Software Engineer** at the [National Center for Atmospheric Research](https://github.com/NCAR)
 - Former **SIParCS Intern** and **CISL Visitor** at the [National Center for Atmospheric Research](https://github.com/NCAR)
 
 ### 🎓Education
-- I am currently working towards a M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
+- I'm currently working towards a M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
 - B.S in Computer Engineering from the [University of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
 
 
