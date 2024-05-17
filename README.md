@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/philip-chmielowiec-9949961b6/)
 
 
-## Background 
+## 🔬 Background 
 ### :cyclone: Work
 - I'm currently working as a **Scientific Software Engineer** at the [NSF National Center for Atmospheric Research](https://github.com/NCAR)
 - Former **SIParCS Intern** and **CISL Visitor** at the [NSF National Center for Atmospheric Research](https://github.com/NCAR)
@@ -18,6 +18,8 @@
 - I'm currently working towards a M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
 - B.S in Computer Engineering from the [University of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
 
+## 📊 GitHub Stats
+![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipc2&show_icons=true&theme=ambient_gradient)
 
 
 
