@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/philip-chmielowiec-9949961b6/)
 
 
-## 🔬 Background 
+## Background 
 ### :cyclone: Work
 - I'm currently working as a **Scientific Software Engineer** at the [NSF National Center for Atmospheric Research](https://github.com/NCAR)
 - Former **SIParCS Intern** and **CISL Visitor** at the [NSF National Center for Atmospheric Research](https://github.com/NCAR)
