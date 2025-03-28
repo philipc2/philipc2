@@ -16,7 +16,7 @@
 
 ### 🎓 Education
 - M.S. in Computer Science from the [University of Chicago](https://cs.uchicago.edu/)
-- B.S in Computer Engineering from the [University of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
+- B.S. in Computer Engineering from the [University of Illinois Urbana-Champaign](https://ece.illinois.edu/) :corn:
 
 
 
