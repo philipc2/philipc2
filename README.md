@@ -11,7 +11,8 @@
 
 ## Background 
 ### :cyclone: Work
-- I'm currently working as a **Scientific Software Engineer** at the [NSF National Center for Atmospheric Research](https://github.com/NCAR)
+- I'm currently working as a **R&D Computer Scientist** at [Sandia National Laboratories](https://www.sandia.gov/)
+- Former **Scientific Software Engineer** at the [NSF National Center for Atmospheric Research](https://github.com/NCAR)
 - Former **SIParCS Intern** and **CISL Visitor** at the [NSF National Center for Atmospheric Research](https://github.com/NCAR)
 
 ### 🎓 Education
